@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="png">
+    <file>logo.png</file>
+    <file>start.png</file>
+    <file>stop.png</file>
+    <file>quit.png</file>
+    <file>open.png</file>
+    <file>gnd.png</file>
+    <file>edit.png</file>
+
+  </qresource>
+  <qresource prefix="ico/">
+    <file>app.ico</file>
+  </qresource>
+</RCC>
